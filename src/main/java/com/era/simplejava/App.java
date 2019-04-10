@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "This is Simple Java!" );
+        System.out.println( "First Session on Basic Java" );
     }
 }
